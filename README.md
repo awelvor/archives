@@ -1,5 +1,4 @@
-Jekyll Clean
-============
+> archives
 
 * Get it from [github](https://github.com/scotte/jekyll-clean).
 * See the [live demo](https://scotte.github.io/jekyll-clean).
