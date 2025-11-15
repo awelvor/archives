@@ -9,6 +9,8 @@ comments: false
 * See the [live demo](https://scotte.github.io/jekyll-clean).
 * See it [in action on my own blog](https://scotte.org).
 
+
+modifé le 15/11/2025.
 Welcome to the sample post for the Jekyll Clean theme.
 
 A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
